@@ -1,0 +1,246 @@
+@import "general.styles.css";
+body > div.container {
+	position: relative;
+	overflow: hidden;
+	width: 998px;
+	height: 709px;
+	background-image: url(../images/back.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+div.container1 {
+	position: relative;
+	overflow: hidden;
+	width: 998px;
+	height: 709px;
+	background-image: url(../images/back0.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+div.blue_back {
+	position: relative;
+	overflow: hidden;
+	width: 933px;
+	height: 649px;
+	background-color: #0099FF;
+	opacity: 0.9;
+	margin: 30px;
+	border-radius: 30px;
+	display: block;
+}
+.eye {
+	position: absolute;
+	top: 20px;
+	right: 30px;
+	width: 280px;
+	height: 130px;
+}
+.head_0 {
+	font-family: "OpenDyslexic3";
+	color: white;
+	line-height: 90px;
+	font-size: 50px;
+	position: absolute;
+	top:180px;
+	left: 70px;
+	width: 850px;
+	text-align: center;
+}
+.head_text27 {
+	font-family: "OpenDyslexic3_Bold";
+	text-align: left;
+	color: black;
+	width: 850px;
+	line-height: 40px;
+	font-size: 20px;
+	position: absolute;
+	top: 5px;
+	left: 15px;
+	background-color: #FFFFFF;
+        margin: 30px 30px 50px 30px;
+        padding: 10px 25px 25px 25px;
+        border: 2px solid black;
+}
+.heada {
+	font-family: "OpenDyslexic3_Bold";
+	text-align: left;
+	color: black;
+	width: 350px;
+	line-height: 40px;
+	font-size: 25px;
+	position: absolute;
+	top: 5px;
+	left: 15px;
+        margin: 70px 50px 50px 50px;
+}
+.headaa {
+	font-family: "OpenDyslexic3_Bold";
+	text-align: left;
+	color: black;
+	width: 850px;
+	line-height: 50px;
+	font-size: 28px;
+	position: absolute;
+	top: 5px;
+	left: 15px;
+        margin: 10px 50px 50px 70px;
+}
+.box27
+{
+        position: absolute;
+	top: 280px;
+	left: 15px;
+	width: 351px;
+	height: 178px;
+      	background-color: #FFFFFF;
+        margin: 0px 30px 50px 30px;
+        padding: 20px 15px 25px 15px;
+        border: 2px solid black;
+        text-align: center;
+        border-radius: 26px;
+}
+.box27a
+{
+        position: absolute;
+	top: 285px;
+	left: 495px;
+      	background-color: #FFFFFF;
+        border: 2px solid black;
+        text-align: center;
+}
+
+.bottom_bar {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	/* border: 1px solid; */
+	width: 100%;
+	height: 120px;
+	background-color: #DAD9D9;
+}
+button.exit {
+	font-family: "OpenDyslexic3_Bold";
+	position: absolute;
+	top: 40px;
+	left: 50px;
+	width: 150px;
+	height: 50px;
+	cursor: pointer;
+	/*	border: 1px solid; */
+	background-image: url(../images/exit.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+button.restart {
+	font-family: "OpenDyslexic3_Bold";
+	position: absolute;
+	top: 40px;
+	left: 380px;
+	width: 170px;
+	height: 50px;
+	cursor: pointer;
+	/*	border: 1px solid; */
+	background-image: url(../images/restart.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+button.cont {
+	font-family: "OpenDyslexic3_Bold";
+	position: absolute;
+	top: 32px;
+	right: 60px;
+	width: 200px;
+	height: 50px;
+	cursor: pointer;
+	/* border: 1px solid; */
+	background-image: url(../images/cont.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	color: gray;
+}
+
+button.cont_done {
+	font-family: "OpenDyslexic3_Bold";
+	position: absolute;
+        top: 32px;
+	right:60px;
+	width: 220px;
+	height: 60px;
+	cursor: pointer;
+	/* border: 1px solid; */
+	background-image: url(../images/cont.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	color: gray;
+}
+
+button.cont_g {
+	font-family: "OpenDyslexic3_Bold";
+	position: absolute;
+	top: 32px;
+	right: 60px;
+	width: 200px;
+	height: 50px;
+	cursor: pointer;
+	/* border: 1px solid; */
+	background-image: url(../images/cont1.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	color: white;
+}
+
+.done {
+	font-family: "OpenDyslexic3_Bold";
+	position: absolute;
+	top: 2px;
+	left: 0px;
+	right: 120px;
+	width: 250px;
+	height: 60px;
+	cursor: default;
+	/* border: 1px solid; */
+	background-image: url(../images/done.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.b_text {
+	font-family: "OpenDyslexic3_Bold";
+	text-align: center;
+	font-size: 25px;
+        line-height: 30px;
+	margin: 0px 0px 0px 35px;
+        vertical-align: middle;
+	/* position: relative; */
+	/* top: 0px; */
+	/* left: 50px; */
+}
+.b_texta {
+	font-family: "OpenDyslexic3_Bold";
+	text-align: center;
+	font-size: 25px;
+        line-height: 40px;
+	margin: 0px 0px 0px 35px;
+        vertical-align: middle;
+	/* position: relative; */
+	/* top: 0px; */
+	/* left: 50px; */
+}
+.b_text1 {
+	font-family: "OpenDyslexic3_Bold";
+	text-align: center;
+	font-size: 25px;
+        line-height: 35px;
+	margin: 0px 0px 0px -55px;
+	position: relative;
+}
+.G
+{
+        background-color: #A7F088;
+        border: .2em solid #329F01;
+}
+.R
+{
+        background-color: #FBB0B0;
+        border: .2em solid #FF4646;
+}
