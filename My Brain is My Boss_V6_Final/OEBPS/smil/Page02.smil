@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id0">
+<text src="../page002.xhtml#word0"/>
+<audio clipBegin="0:00:00.001" clipEnd="0:00:01.500" src="../audio/Blank.mp3"/>
+</par>
+<par id="id1">
+<text src="../page002.xhtml#word1"/>
+<audio clipBegin="0:00:00.042" clipEnd="0:00:00.369" src="../audio/Page02.mp3"/>
+</par>
+<par id="id2">
+<text src="../page002.xhtml#word2"/>
+<audio clipBegin="0:00:00.369" clipEnd="0:00:00.981" src="../audio/Page02.mp3"/>
+</par>
+<par id="id3">
+<text src="../page002.xhtml#word3"/>
+<audio clipBegin="0:00:00.981" clipEnd="0:00:01.194" src="../audio/Page02.mp3"/>
+</par>
+<par id="id4">
+<text src="../page002.xhtml#word4"/>
+<audio clipBegin="0:00:01.216" clipEnd="0:00:01.823" src="../audio/Page02.mp3"/>
+</par>
+<par id="id5">
+<text src="../page002.xhtml#word5"/>
+<audio clipBegin="0:00:01.823" clipEnd="0:00:02.647" src="../audio/Page02.mp3"/>
+</par>
+<par id="id6">
+<text src="../page002.xhtml#word6"/>
+<audio clipBegin="0:00:02.647" clipEnd="0:00:05.394" src="../audio/Page02.mp3"/>
+</par>
+<par id="id7">
+<text src="../page002.xhtml#word7"/>
+<audio clipBegin="0:00:05.394" clipEnd="0:00:05.753" src="../audio/Page02.mp3"/>
+</par>
+<par id="id8">
+<text src="../page002.xhtml#word8"/>
+<audio clipBegin="0:00:05.753" clipEnd="0:00:06.159" src="../audio/Page02.mp3"/>
+</par>
+<par id="id9">
+<text src="../page002.xhtml#word9"/>
+<audio clipBegin="0:00:06.159" clipEnd="0:00:06.415" src="../audio/Page02.mp3"/>
+</par>
+<par id="id10">
+<text src="../page002.xhtml#word10"/>
+<audio clipBegin="0:00:06.415" clipEnd="0:00:06.652" src="../audio/Page02.mp3"/>
+</par>
+<par id="id11">
+<text src="../page002.xhtml#word11"/>
+<audio clipBegin="0:00:06.652" clipEnd="0:00:07.096" src="../audio/Page02.mp3"/>
+</par>
+<par id="id12">
+<text src="../page002.xhtml#word12"/>
+<audio clipBegin="0:00:07.096" clipEnd="0:00:07.450" src="../audio/Page02.mp3"/>
+</par>
+<par id="id13">
+<text src="../page002.xhtml#word13"/>
+<audio clipBegin="0:00:07.450" clipEnd="0:00:07.649" src="../audio/Page02.mp3"/>
+</par>
+<par id="id14">
+<text src="../page002.xhtml#word14"/>
+<audio clipBegin="0:00:07.649" clipEnd="0:00:07.981" src="../audio/Page02.mp3"/>
+</par>
+<par id="id15">
+<text src="../page002.xhtml#word15"/>
+<audio clipBegin="0:00:07.981" clipEnd="0:00:10.501" src="../audio/Page02.mp3"/>
+</par>
+</body>
+</smil>
