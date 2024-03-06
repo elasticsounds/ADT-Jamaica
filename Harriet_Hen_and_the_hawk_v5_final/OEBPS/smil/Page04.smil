@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id0">
+<text src="../page004.xhtml#word01"/>
+<audio clipBegin="0:00:00.001" clipEnd="0:00:01.500" src="../audio/Blank.mp3"/>
+</par>
+
+<par id="id1">
+<text src="../page004.xhtml#word1"/>
+<audio clipBegin="00:00:00.000" clipEnd="00:00:00.057" src="../audio/Page04.mp3"/>
+</par>
+<par id="id2">
+<text src="../page004.xhtml#word2"/>
+<audio clipBegin="00:00:00.057" clipEnd="00:00:01.382" src="../audio/Page04.mp3"/>
+</par>
+<par id="id3">
+<text src="../page004.xhtml#word3"/>
+<audio clipBegin="00:00:01.382" clipEnd="00:00:01.738" src="../audio/Page04.mp3"/>
+</par>
+<par id="id4">
+<text src="../page004.xhtml#word4"/>
+<audio clipBegin="00:00:01.738" clipEnd="00:00:02.369" src="../audio/Page04.mp3"/>
+</par>
+<par id="id5">
+<text src="../page004.xhtml#word5"/>
+<audio clipBegin="00:00:02.369" clipEnd="00:00:03.159" src="../audio/Page04.mp3"/>
+</par>
+<par id="id6">
+<text src="../page004.xhtml#word6"/>
+<audio clipBegin="00:00:03.159" clipEnd="00:00:03.923" src="../audio/Page04.mp3"/>
+</par>
+<par id="id7">
+<text src="../page004.xhtml#word7"/>
+<audio clipBegin="00:00:03.923" clipEnd="00:00:07.659" src="../audio/Page04.mp3"/>
+</par>
+<par id="id8">
+<text src="../page004.xhtml#word8"/>
+<audio clipBegin="00:00:07.659" clipEnd="00:00:08.794" src="../audio/Page04.mp3"/>
+</par>
+<par id="id9">
+<text src="../page004.xhtml#word9"/>
+<audio clipBegin="00:00:08.794" clipEnd="00:00:08.960" src="../audio/Page04.mp3"/>
+</par>
+<par id="id10">
+<text src="../page004.xhtml#word10"/>
+<audio clipBegin="00:00:08.960" clipEnd="00:00:09.394" src="../audio/Page04.mp3"/>
+</par>
+<par id="id11">
+<text src="../page004.xhtml#word11"/>
+<audio clipBegin="00:00:09.394" clipEnd="00:00:09.815" src="../audio/Page04.mp3"/>
+</par>
+<par id="id12">
+<text src="../page004.xhtml#word12"/>
+<audio clipBegin="00:00:09.815" clipEnd="00:00:10.428" src="../audio/Page04.mp3"/>
+</par>
+<par id="id13">
+<text src="../page004.xhtml#word13"/>
+<audio clipBegin="00:00:10.428" clipEnd="00:00:10.968" src="../audio/Page04.mp3"/>
+</par>
+<par id="id14">
+<text src="../page004.xhtml#word14"/>
+<audio clipBegin="00:00:10.968" clipEnd="00:00:11.744" src="../audio/Page04.mp3"/>
+</par>
+<par id="id15">
+<text src="../page004.xhtml#word15"/>
+<audio clipBegin="00:00:11.744" clipEnd="00:00:17.763" src="../audio/Page04.mp3"/>
+</par>
+<par id="id16">
+<text src="../page004.xhtml#word16"/>
+<audio clipBegin="00:00:17.763" clipEnd="00:00:18.839" src="../audio/Page04.mp3"/>
+</par>
+<par id="id17">
+<text src="../page004.xhtml#word17"/>
+<audio clipBegin="00:00:18.839" clipEnd="00:00:19.161" src="../audio/Page04.mp3"/>
+</par>
+<par id="id18">
+<text src="../page004.xhtml#word18"/>
+<audio clipBegin="00:00:19.161" clipEnd="00:00:19.723" src="../audio/Page04.mp3"/>
+</par>
+<par id="id19">
+<text src="../page004.xhtml#word19"/>
+<audio clipBegin="00:00:19.723" clipEnd="00:00:20.255" src="../audio/Page04.mp3"/>
+</par>
+<par id="id20">
+<text src="../page004.xhtml#word20"/>
+<audio clipBegin="00:00:20.255" clipEnd="00:00:20.618" src="../audio/Page04.mp3"/>
+</par>
+<par id="id21">
+<text src="../page004.xhtml#word21"/>
+<audio clipBegin="00:00:20.618" clipEnd="00:00:20.986" src="../audio/Page04.mp3"/>
+</par>
+<par id="id22">
+<text src="../page004.xhtml#word22"/>
+<audio clipBegin="00:00:20.986" clipEnd="00:00:21.367" src="../audio/Page04.mp3"/>
+</par>
+<par id="id23">
+<text src="../page004.xhtml#word23"/>
+<audio clipBegin="00:00:21.367" clipEnd="00:00:21.871" src="../audio/Page04.mp3"/>
+</par>
+<par id="id24">
+<text src="../page004.xhtml#word24"/>
+<audio clipBegin="00:00:21.871" clipEnd="00:00:22.375" src="../audio/Page04.mp3"/>
+</par>
+<par id="id25">
+<text src="../page004.xhtml#word25"/>
+<audio clipBegin="00:00:22.375" clipEnd="00:00:22.854" src="../audio/Page04.mp3"/>
+</par>
+<par id="id26">
+<text src="../page004.xhtml#word26"/>
+<audio clipBegin="00:00:22.854" clipEnd="00:00:23.290" src="../audio/Page04.mp3"/>
+</par>
+<par id="id27">
+<text src="../page004.xhtml#word27"/>
+<audio clipBegin="00:00:23.290" clipEnd="00:00:29.486" src="../audio/Page04.mp3"/>
+</par>
+<par id="id28">
+<text src="../page004.xhtml#word28"/>
+<audio clipBegin="00:00:29.486" clipEnd="00:00:30.387" src="../audio/Page04.mp3"/>
+</par>
+<par id="id29">
+<text src="../page004.xhtml#word29"/>
+<audio clipBegin="00:00:30.387" clipEnd="00:00:31.315" src="../audio/Page04.mp3"/>
+</par>
+<par id="id30">
+<text src="../page004.xhtml#word30"/>
+<audio clipBegin="00:00:31.315" clipEnd="00:00:37.773" src="../audio/Page04.mp3"/>
+</par>
+
+</body>
+</smil>

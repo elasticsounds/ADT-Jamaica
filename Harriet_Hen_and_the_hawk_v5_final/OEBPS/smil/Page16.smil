@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id0">
+<text src="../page016.xhtml#word01"/>
+<audio clipBegin="0:00:00.001" clipEnd="0:00:01.500" src="../audio/Blank.mp3"/>
+</par>
+
+<par id="id1">
+<text src="../page016.xhtml#word1"/>
+<audio clipBegin="00:00:00.000" clipEnd="00:00:00.289" src="../audio/Page16.mp3"/>
+</par>
+<par id="id2">
+<text src="../page016.xhtml#word2"/>
+<audio clipBegin="00:00:00.289" clipEnd="00:00:00.872" src="../audio/Page16.mp3"/>
+</par>
+<par id="id3">
+<text src="../page016.xhtml#word3"/>
+<audio clipBegin="00:00:00.872" clipEnd="00:00:01.533" src="../audio/Page16.mp3"/>
+</par>
+<par id="id4">
+<text src="../page016.xhtml#word4"/>
+<audio clipBegin="00:00:01.533" clipEnd="00:00:01.763" src="../audio/Page16.mp3"/>
+</par>
+<par id="id5">
+<text src="../page016.xhtml#word5"/>
+<audio clipBegin="00:00:01.763" clipEnd="00:00:02.318" src="../audio/Page16.mp3"/>
+</par>
+<par id="id6">
+<text src="../page016.xhtml#word6"/>
+<audio clipBegin="00:00:02.318" clipEnd="00:00:03.067" src="../audio/Page16.mp3"/>
+</par>
+<par id="id7">
+<text src="../page016.xhtml#word7"/>
+<audio clipBegin="00:00:03.067" clipEnd="00:00:03.707" src="../audio/Page16.mp3"/>
+</par>
+<par id="id8">
+<text src="../page016.xhtml#word8"/>
+<audio clipBegin="00:00:03.707" clipEnd="00:00:05.217" src="../audio/Page16.mp3"/>
+</par>
+<par id="id9">
+<text src="../page016.xhtml#word9"/>
+<audio clipBegin="00:00:05.217" clipEnd="00:00:05.864" src="../audio/Page16.mp3"/>
+</par>
+<par id="id10">
+<text src="../page016.xhtml#word10"/>
+<audio clipBegin="00:00:05.864" clipEnd="00:00:06.734" src="../audio/Page16.mp3"/>
+</par>
+<par id="id11">
+<text src="../page016.xhtml#word11"/>
+<audio clipBegin="00:00:06.734" clipEnd="00:00:07.433" src="../audio/Page16.mp3"/>
+</par>
+<par id="id12">
+<text src="../page016.xhtml#word12"/>
+<audio clipBegin="00:00:07.433" clipEnd="00:00:07.708" src="../audio/Page16.mp3"/>
+</par>
+<par id="id13">
+<text src="../page016.xhtml#word13"/>
+<audio clipBegin="00:00:07.708" clipEnd="00:00:08.503" src="../audio/Page16.mp3"/>
+</par>
+<par id="id14">
+<text src="../page016.xhtml#word14"/>
+<audio clipBegin="00:00:08.503" clipEnd="00:00:12.330" src="../audio/Page16.mp3"/>
+</par>
+<par id="id15">
+<text src="../page016.xhtml#word15"/>
+<audio clipBegin="00:00:12.330" clipEnd="00:00:13.094" src="../audio/Page16.mp3"/>
+</par>
+<par id="id16">
+<text src="../page016.xhtml#word16"/>
+<audio clipBegin="00:00:13.094" clipEnd="00:00:13.820" src="../audio/Page16.mp3"/>
+</par>
+<par id="id17">
+<text src="../page016.xhtml#word17"/>
+<audio clipBegin="00:00:13.820" clipEnd="00:00:14.346" src="../audio/Page16.mp3"/>
+</par>
+<par id="id18">
+<text src="../page016.xhtml#word18"/>
+<audio clipBegin="00:00:14.346" clipEnd="00:00:14.573" src="../audio/Page16.mp3"/>
+</par>
+<par id="id19">
+<text src="../page016.xhtml#word19"/>
+<audio clipBegin="00:00:14.573" clipEnd="00:00:15.556" src="../audio/Page16.mp3"/>
+</par>
+<par id="id20">
+<text src="../page016.xhtml#word20"/>
+<audio clipBegin="00:00:15.556" clipEnd="00:00:16.061" src="../audio/Page16.mp3"/>
+</par>
+<par id="id21">
+<text src="../page016.xhtml#word21"/>
+<audio clipBegin="00:00:16.061" clipEnd="00:00:16.546" src="../audio/Page16.mp3"/>
+</par>
+<par id="id22">
+<text src="../page016.xhtml#word22"/>
+<audio clipBegin="00:00:16.546" clipEnd="00:00:17.353" src="../audio/Page16.mp3"/>
+</par>
+<par id="id23">
+<text src="../page016.xhtml#word23"/>
+<audio clipBegin="00:00:17.353" clipEnd="00:00:17.818" src="../audio/Page16.mp3"/>
+</par>
+<par id="id24">
+<text src="../page016.xhtml#word24"/>
+<audio clipBegin="00:00:17.818" clipEnd="00:00:18.723" src="../audio/Page16.mp3"/>
+</par>
+<par id="id25">
+<text src="../page016.xhtml#word25"/>
+<audio clipBegin="00:00:18.723" clipEnd="00:00:21.051" src="../audio/Page16.mp3"/>
+</par>
+<par id="id26">
+<text src="../page016.xhtml#word26"/>
+<audio clipBegin="00:00:21.051" clipEnd="00:00:21.347" src="../audio/Page16.mp3"/>
+</par>
+<par id="id27">
+<text src="../page016.xhtml#word27"/>
+<audio clipBegin="00:00:21.347" clipEnd="00:00:21.849" src="../audio/Page16.mp3"/>
+</par>
+<par id="id28">
+<text src="../page016.xhtml#word28"/>
+<audio clipBegin="00:00:21.849" clipEnd="00:00:22.141" src="../audio/Page16.mp3"/>
+</par>
+<par id="id29">
+<text src="../page016.xhtml#word29"/>
+<audio clipBegin="00:00:22.141" clipEnd="00:00:22.831" src="../audio/Page16.mp3"/>
+</par>
+<par id="id30">
+<text src="../page016.xhtml#word30"/>
+<audio clipBegin="00:00:22.831" clipEnd="00:00:23.045" src="../audio/Page16.mp3"/>
+</par>
+<par id="id31">
+<text src="../page016.xhtml#word31"/>
+<audio clipBegin="00:00:23.045" clipEnd="00:00:23.245" src="../audio/Page16.mp3"/>
+</par>
+<par id="id32">
+<text src="../page016.xhtml#word32"/>
+<audio clipBegin="00:00:23.245" clipEnd="00:00:23.707" src="../audio/Page16.mp3"/>
+</par>
+<par id="id33">
+<text src="../page016.xhtml#word33"/>
+<audio clipBegin="00:00:23.707" clipEnd="00:00:23.944" src="../audio/Page16.mp3"/>
+</par>
+<par id="id34">
+<text src="../page016.xhtml#word34"/>
+<audio clipBegin="00:00:23.944" clipEnd="00:00:24.996" src="../audio/Page16.mp3"/>
+</par>
+<par id="id35">
+<text src="../page016.xhtml#word35"/>
+<audio clipBegin="00:00:24.996" clipEnd="00:00:25.538" src="../audio/Page16.mp3"/>
+</par>
+<par id="id36">
+<text src="../page016.xhtml#word36"/>
+<audio clipBegin="00:00:25.538" clipEnd="00:00:26.565" src="../audio/Page16.mp3"/>
+</par>
+<par id="id37">
+<text src="../page016.xhtml#word37"/>
+<audio clipBegin="00:00:26.565" clipEnd="00:00:27.178" src="../audio/Page16.mp3"/>
+</par>
+<par id="id38">
+<text src="../page016.xhtml#word38"/>
+<audio clipBegin="00:00:27.178" clipEnd="00:00:27.399" src="../audio/Page16.mp3"/>
+</par>
+<par id="id39">
+<text src="../page016.xhtml#word39"/>
+<audio clipBegin="00:00:27.399" clipEnd="00:00:28.010" src="../audio/Page16.mp3"/>
+</par>
+<par id="id40">
+<text src="../page016.xhtml#word40"/>
+<audio clipBegin="00:00:28.010" clipEnd="00:00:31.583" src="../audio/Page16.mp3"/>
+</par>
+<par id="id41">
+<text src="../page016.xhtml#word41"/>
+<audio clipBegin="00:00:31.583" clipEnd="00:00:32.689" src="../audio/Page16.mp3"/>
+</par>
+<par id="id42">
+<text src="../page016.xhtml#word42"/>
+<audio clipBegin="00:00:32.689" clipEnd="00:00:33.264" src="../audio/Page16.mp3"/>
+</par>
+<par id="id43">
+<text src="../page016.xhtml#word43"/>
+<audio clipBegin="00:00:33.264" clipEnd="00:00:33.753" src="../audio/Page16.mp3"/>
+</par>
+<par id="id44">
+<text src="../page016.xhtml#word44"/>
+<audio clipBegin="00:00:33.753" clipEnd="00:00:34.048" src="../audio/Page16.mp3"/>
+</par>
+<par id="id45">
+<text src="../page016.xhtml#word45"/>
+<audio clipBegin="00:00:34.048" clipEnd="00:00:35.052" src="../audio/Page16.mp3"/>
+</par>
+<par id="id46">
+<text src="../page016.xhtml#word46"/>
+<audio clipBegin="00:00:35.052" clipEnd="00:00:35.488" src="../audio/Page16.mp3"/>
+</par>
+<par id="id47">
+<text src="../page016.xhtml#word47"/>
+<audio clipBegin="00:00:35.488" clipEnd="00:00:35.980" src="../audio/Page16.mp3"/>
+</par>
+<par id="id48">
+<text src="../page016.xhtml#word48"/>
+<audio clipBegin="00:00:35.980" clipEnd="00:00:36.860" src="../audio/Page16.mp3"/>
+</par>
+<par id="id49">
+<text src="../page016.xhtml#word49"/>
+<audio clipBegin="00:00:36.860" clipEnd="00:00:37.309" src="../audio/Page16.mp3"/>
+</par>
+<par id="id50">
+<text src="../page016.xhtml#word50"/>
+<audio clipBegin="00:00:37.309" clipEnd="00:00:38.049" src="../audio/Page16.mp3"/>
+</par>
+<par id="id51">
+<text src="../page016.xhtml#word51"/>
+<audio clipBegin="00:00:38.049" clipEnd="00:00:41.087" src="../audio/Page16.mp3"/>
+</par>
+
+</body>
+</smil>
