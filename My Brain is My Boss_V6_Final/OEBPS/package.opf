@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="e9789766390570" version="3.0" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ calibre: https://calibre-ebook.com">
+  <metadata xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">My Brain is My Boss</dc:title>
+    <dc:creator id="id-1">Suzanne Francis Brown</dc:creator>
+    <dc:identifier>calibre:146</dc:identifier>
+    <dc:identifier>uuid:0d1b36dc-5b92-4b6c-b770-8a9a4eeb2c1f</dc:identifier>
+    <dc:identifier id="e9789766390570">9789766390570</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:publisher>Diane Browne</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">My Brain is My Boss</meta>
+    <meta property="dcterms:modified">2022-10-05T14:00:49Z</meta>
+    <meta name="cover" content="cover_image"/>
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:spread">none</meta>
+    <meta property="rendition:orientation">auto</meta>
+    <meta property="media:active-class">-epub-media-overlay-active</meta>
+    <meta property="media:duration">0:04:20.123</meta>
+    <meta property="media:duration" refines="#moCover01">0:00:00.000</meta>
+    <meta property="media:duration" refines="#moPage02">0:00:00.000</meta>
+    <meta property="media:duration" refines="#moPage04">0:00:00.000</meta>
+    <meta property="media:duration" refines="#moPage06">0:00:00.000</meta>
+    <meta property="media:duration" refines="#moPage08">0:00:00.000</meta>
+    <meta property="media:duration" refines="#moPage10">0:00:00.000</meta>
+    <meta property="media:duration" refines="#moPage12">0:00:00.000</meta>
+    <meta property="media:duration" refines="#moPage14">0:00:00.000</meta>
+    <meta property="media:duration" refines="#moPage16">0:00:00.000</meta>
+    <meta property="media:duration" refines="#moPage18">0:00:00.000</meta>
+    <meta property="media:duration" refines="#moPage20">0:00:00.000</meta>
+    <meta property="media:duration" refines="#moPage22">0:00:00.000</meta>
+    <meta property="media:duration" refines="#moPage24">0:00:00.000</meta>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">Brown, Suzanne Francis</meta>
+    <meta property="calibre:author_link_map">{"Suzanne Francis Brown": ""}</meta>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" media-overlay="moCover01" properties="scripted"/>
+    <item id="page002" href="page002.xhtml" media-type="application/xhtml+xml" media-overlay="moPage02" properties="scripted"/>
+    <item id="page004" href="page004.xhtml" media-type="application/xhtml+xml" media-overlay="moPage04" properties="scripted"/>
+    <item id="page006" href="page006.xhtml" media-type="application/xhtml+xml" media-overlay="moPage06" properties="scripted"/>
+    <item id="page008" href="page008.xhtml" media-type="application/xhtml+xml" media-overlay="moPage08" properties="scripted"/>
+    <item id="page010" href="page010.xhtml" media-type="application/xhtml+xml" media-overlay="moPage10" properties="scripted"/>
+    <item id="page012" href="page012.xhtml" media-type="application/xhtml+xml" media-overlay="moPage12" properties="scripted"/>
+    <item id="page014" href="page014.xhtml" media-type="application/xhtml+xml" media-overlay="moPage14" properties="scripted"/>
+    <item id="page016" href="page016.xhtml" media-type="application/xhtml+xml" media-overlay="moPage16" properties="scripted"/>
+    <item id="page018" href="page018.xhtml" media-type="application/xhtml+xml" media-overlay="moPage18" properties="scripted"/>
+    <item id="page020" href="page020.xhtml" media-type="application/xhtml+xml" media-overlay="moPage20" properties="scripted"/>
+    <item id="page022" href="page022.xhtml" media-type="application/xhtml+xml" media-overlay="moPage22" properties="scripted"/>
+    <item id="page024" href="page024.xhtml" media-type="application/xhtml+xml" media-overlay="moPage24" properties="scripted"/>
+    <item id="page025" href="page025.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="page026" href="page026.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="page027" href="page027.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="page028" href="page028.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="page029" href="page029.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="page030" href="page030.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="back" href="back.xhtml" media-type="application/xhtml+xml"/>
+    <item properties="nav" id="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
+    <item id="font-faces" href="css/FontSrc.css" media-type="text/css"/>
+    <item id="styles1" href="css/general.styles.css" media-type="text/css"/>
+    <item id="styles2" href="css/general.styles1.css" media-type="text/css"/>
+    <item id="styles" href="css/Styles.css" media-type="text/css"/>
+    <item id="styles4" href="css/styles125.css" media-type="text/css"/>
+    <item id="styles3" href="css/styles25.css" media-type="text/css"/>
+    <item id="styles5" href="css/styles26.css" media-type="text/css"/>
+    <item id="styles6" href="css/styles27.css" media-type="text/css"/>
+    <item id="styles7" href="css/styles28.css" media-type="text/css"/>
+    <item id="videojs-css" href="css/video-js.min.css" media-type="text/css"/>
+    <item id="iarteries" href="images/arteries.png" media-type="image/png"/>
+    <item id="iback" href="images/back.png" media-type="image/png"/>
+    <item id="back0" href="images/back0.jpg" media-type="image/jpeg"/>
+    <item id="bg001_00" href="images/bg001_00.jpg" media-type="image/jpeg"/>
+    <item id="bg002_00" href="images/bg002_00.jpg" media-type="image/jpeg"/>
+    <item id="bg003_00" href="images/bg003_00.jpg" media-type="image/jpeg"/>
+    <item id="bg004_00" href="images/bg004_00.jpg" media-type="image/jpeg"/>
+    <item id="bg005_00" href="images/bg005_00.jpg" media-type="image/jpeg"/>
+    <item id="bg006_00" href="images/bg006_00.jpg" media-type="image/jpeg"/>
+    <item id="bg007_00" href="images/bg007_00.jpg" media-type="image/jpeg"/>
+    <item id="bg008_00" href="images/bg008_00.jpg" media-type="image/jpeg"/>
+    <item id="bg009_00" href="images/bg009_00.jpg" media-type="image/jpeg"/>
+    <item id="bg010_00" href="images/bg010_00.jpg" media-type="image/jpeg"/>
+    <item id="bg011_00" href="images/bg011_00.jpg" media-type="image/jpeg"/>
+    <item id="bg012_00" href="images/bg012_00.jpg" media-type="image/jpeg"/>
+    <item id="bg013_00" href="images/bg013_00.jpg" media-type="image/jpeg"/>
+    <item id="bg014_00" href="images/bg014_00.jpg" media-type="image/jpeg"/>
+    <item id="bg015_00" href="images/bg015_00.jpg" media-type="image/jpeg"/>
+    <item id="bg016_00" href="images/bg016_00.jpg" media-type="image/jpeg"/>
+    <item id="bg017_00" href="images/bg017_00.jpg" media-type="image/jpeg"/>
+    <item id="bg018_00" href="images/bg018_00.jpg" media-type="image/jpeg"/>
+    <item id="bg019_00" href="images/bg019_00.jpg" media-type="image/jpeg"/>
+    <item id="bg020_00" href="images/bg020_00.jpg" media-type="image/jpeg"/>
+    <item id="bg021_00" href="images/bg021_00.jpg" media-type="image/jpeg"/>
+    <item id="bg022_00" href="images/bg022_00.jpg" media-type="image/jpeg"/>
+    <item id="bg023_00" href="images/bg023_00.jpg" media-type="image/jpeg"/>
+    <item id="bg024_00" href="images/bg024_00.jpg" media-type="image/jpeg"/>
+    <item id="Bones" href="images/Bones.png" media-type="image/png"/>
+    <item id="both1" href="images/both1.png" media-type="image/png"/>
+    <item id="boy" href="images/boy.png" media-type="image/png"/>
+    <item id="iBrain" href="images/Brain.png" media-type="image/png"/>
+    <item id="icont" href="images/cont.png" media-type="image/png"/>
+    <item id="icont1" href="images/cont1.png" media-type="image/png"/>
+    <item properties="cover-image" id="cover_image" href="images/cover.jpg" media-type="image/jpeg"/>
+    <item id="idone" href="images/done.png" media-type="image/png"/>
+    <item id="iend" href="images/end.png" media-type="image/png"/>
+    <item id="iexit" href="images/exit.png" media-type="image/png"/>
+    <item id="ieyes" href="images/eyes.png" media-type="image/png"/>
+    <item id="iFeet" href="images/Feet.png" media-type="image/png"/>
+    <item id="iFingers" href="images/Fingers.png" media-type="image/png"/>
+    <item id="hands-asl-icon" href="images/hands-asl-interpreting-solid.svg" media-type="image/svg+xml"/>
+    <item id="resize-icon" href="images/up-right-and-down-left-from-center-solid.svg" media-type="image/svg+xml"/>
+    <item id="play-icon" href="images/play-pause-solid.svg" media-type="image/svg+xml"/>
+    <item id="ihead" href="images/head.png" media-type="image/png"/>
+    <item id="iheart" href="images/heart.png" media-type="image/png"/>
+    <item id="icon_sound" href="images/icon_sound.png" media-type="image/png"/>
+    <item id="iimg01" href="images/img01.png" media-type="image/png"/>
+    <item id="iimg02" href="images/img02.png" media-type="image/png"/>
+    <item id="inext" href="images/next.png" media-type="image/png"/>
+    <item id="popup" href="images/popup.png" media-type="image/png"/>
+    <item id="iprev" href="images/prev.png" media-type="image/png"/>
+    <item id="irestart" href="images/restart.png" media-type="image/png"/>
+    <item id="iribcage" href="images/ribcage.png" media-type="image/png"/>
+    <item id="right_sign" href="images/right_sign.png" media-type="image/png"/>
+    <item id="iSkeleton" href="images/Skeleton.png" media-type="image/png"/>
+    <item id="iSkin" href="images/Skin.png" media-type="image/png"/>
+    <item id="iskull" href="images/skull.png" media-type="image/png"/>
+    <item id="sort" href="images/sort.png" media-type="image/png"/>
+    <item id="star" href="images/star.png" media-type="image/png"/>
+    <item id="wrong_sign" href="images/wrong_sign.png" media-type="image/png"/>
+    <item id="v426" href="fonts/Anonymous-Pro.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v427" href="fonts/Didot.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v428" href="fonts/Droid-Sans-Mono.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v429" href="fonts/Droid-Sans.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v430" href="fonts/Droid-Serif.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="f0" href="fonts/f0.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="f1" href="fonts/f1.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="f2" href="fonts/f2.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="v431" href="fonts/Lato.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v432" href="fonts/Open-Sans.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v433" href="fonts/OpenDyslexic3-Bold.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v434" href="fonts/OpenDyslexic3-Regular.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v435" href="fonts/OpenDyslexic3.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v436" href="fonts/Roboto-Mono.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v437" href="fonts/Roboto-Slab.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v438" href="fonts/Roboto.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v439" href="fonts/Source-Code-Pro.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v440" href="fonts/Source-Sans-Pro.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="v441" href="fonts/Tinos.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="ad_activity_done" href="audio/activity_done.m4a" media-type="audio/mpeg"/>
+    <item id="ad_activity_done1" href="audio/activity_done.ogg" media-type="audio/mpeg"/>
+    <item id="ad_activity_start" href="audio/activity_start.m4a" media-type="audio/mpeg"/>
+    <item id="ad_activity_start1" href="audio/activity_start.ogg" media-type="audio/mpeg"/>
+    <item id="ad2_answer_correct" href="audio/ans/answer_correct.m4a" media-type="audio/mpeg"/>
+    <item id="ad_answer_correct1" href="audio/ans/answer_correct.ogg" media-type="audio/mpeg"/>
+    <item id="ad_answer_correct26" href="audio/ans/answer_correct26.m4a" media-type="audio/mpeg"/>
+    <item id="ad_answer_correct261" href="audio/ans/answer_correct26.ogg" media-type="audio/mpeg"/>
+    <item id="ad_answer_incorrect" href="audio/ans/answer_incorrect.m4a" media-type="audio/mpeg"/>
+    <item id="ad_answer_incorrect1" href="audio/ans/answer_incorrect.ogg" media-type="audio/mpeg"/>
+    <item id="ad_answer_incorrect26" href="audio/ans/answer_incorrect26.m4a" media-type="audio/mpeg"/>
+    <item id="ad_answer_incorrect261" href="audio/ans/answer_incorrect26.ogg" media-type="audio/mpeg"/>
+    <item id="ad_can_you_fill_missing_vowels" href="audio/ans/can_you_fill_missing_vowels.m4a" media-type="audio/mpeg"/>
+    <item id="ad_can_you_fill_missing_vowels1" href="audio/ans/can_you_fill_missing_vowels.ogg" media-type="audio/mpeg"/>
+    <item id="correct_1" href="audio/ans/correct_1.wav" media-type="audio/mpeg"/>
+    <item id="correct_2" href="audio/ans/correct_2.wav" media-type="audio/mpeg"/>
+    <item id="correct_3" href="audio/ans/correct_3.wav" media-type="audio/mpeg"/>
+    <item id="correct_4" href="audio/ans/correct_4.wav" media-type="audio/mpeg"/>
+    <item id="ad_here_are_the_names" href="audio/ans/here_are_the_names.m4a" media-type="audio/mpeg"/>
+    <item id="ad_here_are_the_names1" href="audio/ans/here_are_the_names.ogg" media-type="audio/mpeg"/>
+    <item id="incorrect_1" href="audio/ans/incorrect_1.wav" media-type="audio/mpeg"/>
+    <item id="incorrect_2" href="audio/ans/incorrect_2.wav" media-type="audio/mpeg"/>
+    <item id="ad_select_the_vowel" href="audio/ans/select_the_vowel.m4a" media-type="audio/mpeg"/>
+    <item id="ad_select_the_vowel1" href="audio/ans/select_the_vowel.ogg" media-type="audio/mpeg"/>
+    <item id="ad_well_done_all_vowels" href="audio/ans/well_done_all_vowels.m4a" media-type="audio/mpeg"/>
+    <item id="ad_well_done_all_vowels1" href="audio/ans/well_done_all_vowels.ogg" media-type="audio/mpeg"/>
+    <item id="ad_Well" href="audio/ans/Well.mp3" media-type="audio/mpeg"/>
+    <item id="ad_answer_correct" href="audio/answer_correct.m4a" media-type="audio/mpeg"/>
+    <item id="ad1_answer_correct" href="audio/answer_correct.ogg" media-type="audio/mpeg"/>
+    <item id="ad1a_answer_correct26" href="audio/answer_correct26.m4a" media-type="audio/mpeg"/>
+    <item id="ad2_answer_correct26" href="audio/answer_correct26.ogg" media-type="audio/mpeg"/>
+    <item id="ad_answer_wrong" href="audio/answer_wrong.m4a" media-type="audio/mpeg"/>
+    <item id="ad1_answer_wrong" href="audio/answer_wrong.ogg" media-type="audio/mpeg"/>
+    <item id="ad_answer_wrong26" href="audio/answer_wrong26.m4a" media-type="audio/mpeg"/>
+    <item id="ad1_answer_wrong26" href="audio/answer_wrong26.ogg" media-type="audio/mpeg"/>
+    <item id="ad_Blank" href="audio/Blank.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Cover01" href="audio/Cover01.mp3" media-type="audio/mpeg"/>
+    <item id="ad_menu_continue" href="audio/menu_continue.m4a" media-type="audio/mpeg"/>
+    <item id="ad_menu_continue1" href="audio/menu_continue.ogg" media-type="audio/mpeg"/>
+    <item id="ad_menu_exit" href="audio/menu_exit.m4a" media-type="audio/mpeg"/>
+    <item id="ad_menu_exit1" href="audio/menu_exit.ogg" media-type="audio/mpeg"/>
+    <item id="ad_menu_restart" href="audio/menu_restart.m4a" media-type="audio/mpeg"/>
+    <item id="ad_menu_restart1" href="audio/menu_restart.ogg" media-type="audio/mpeg"/>
+    <item id="ad_Page02" href="audio/Page02.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Page04" href="audio/Page04.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Page06" href="audio/Page06.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Page08" href="audio/Page08.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Page10" href="audio/Page10.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Page12" href="audio/Page12.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Page14" href="audio/Page14.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Page16" href="audio/Page16.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Page18" href="audio/Page18.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Page20" href="audio/Page20.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Page22" href="audio/Page22.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Page24" href="audio/Page24.mp3" media-type="audio/mpeg"/>
+    <item id="ad_Arteries_D" href="audio/page28/Arteries_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Arteries_W" href="audio/page28/Arteries_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Body_D" href="audio/page28/Body_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Body_W" href="audio/page28/Body_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Bones_D" href="audio/page28/Bones_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Bones_W" href="audio/page28/Bones_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Boss_D" href="audio/page28/Boss_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Boss_W" href="audio/page28/Boss_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Brain_D" href="audio/page28/Brain_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Brain_W" href="audio/page28/Brain_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Chest_D" href="audio/page28/Chest_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Chest_W" href="audio/page28/Chest_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Eyes_D" href="audio/page28/Eyes_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Eyes_W" href="audio/page28/Eyes_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Feet_D" href="audio/page28/Feet_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Feet_W" href="audio/page28/Feet_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Fingers_D" href="audio/page28/Fingers_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Fingers_W" href="audio/page28/Fingers_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Germs_D" href="audio/page28/Germs_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Germs_W" href="audio/page28/Germs_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Head_D" href="audio/page28/Head_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Head_W" href="audio/page28/Head_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Joints_D" href="audio/page28/Joints_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Joints_W" href="audio/page28/Joints_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Muscles_D" href="audio/page28/Muscles_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Muscles_W" href="audio/page28/Muscles_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Protects_D" href="audio/page28/Protects_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Protects_W" href="audio/page28/Protects_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Pucker_Up_D" href="audio/page28/Pucker_Up_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Pucker_Up_W" href="audio/page28/Pucker_Up_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Rib_Cage_D" href="audio/page28/Rib_Cage_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Rib_Cage_W" href="audio/page28/Rib_Cage_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Shapes_and_Sizes_D" href="audio/page28/Shapes_and_Sizes_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Shapes_and_Sizes_W" href="audio/page28/Shapes_and_Sizes_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Shapes_D" href="audio/page28/Shapes_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Shapes_W" href="audio/page28/Shapes_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Sizes_D" href="audio/page28/Sizes_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Sizes_W" href="audio/page28/Sizes_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Skeleton_D" href="audio/page28/Skeleton_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Skeleton_W" href="audio/page28/Skeleton_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Skin_D" href="audio/page28/Skin_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Skin_W" href="audio/page28/Skin_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Skull_D" href="audio/page28/Skull_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Skull_W" href="audio/page28/Skull_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Spread_Out_D" href="audio/page28/Spread_Out_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Spread_Out_W" href="audio/page28/Spread_Out_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Veins_D" href="audio/page28/Veins_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Veins_W" href="audio/page28/Veins_W.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Vital_Organs_D" href="audio/page28/Vital_Organs_D.m4a" media-type="audio/mpeg"/>
+    <item id="ad_Vital_Organs_W" href="audio/page28/Vital_Organs_W.m4a" media-type="audio/mpeg"/>
+    <item id="custom" href="js/custom.js" media-type="application/javascript"/>
+    <item id="custom26" href="js/custom26.js" media-type="application/javascript"/>
+    <item id="custom27" href="js/custom27.js" media-type="application/javascript"/>
+    <item id="jquery" href="js/jquery.js" media-type="application/javascript"/>
+    <item id="page28" href="js/page28.js" media-type="application/javascript"/>
+    <item id="page29" href="js/page29.js" media-type="application/javascript"/>
+    <item id="page30" href="js/page30.js" media-type="application/javascript"/>
+    <item id="pageFunctions" href="js/pageFunctions.js" media-type="application/javascript"/>
+    <item id="scripts" href="js/scripts.js" media-type="application/javascript"/>
+    <item id="videojs" href="js/video.min.js" media-type="application/javascript"/>
+    <item id="moCover01" href="smil/Cover01.smil" media-type="application/smil+xml"/>
+    <item id="moPage02" href="smil/Page02.smil" media-type="application/smil+xml"/>
+    <item id="moPage04" href="smil/Page04.smil" media-type="application/smil+xml"/>
+    <item id="moPage06" href="smil/Page06.smil" media-type="application/smil+xml"/>
+    <item id="moPage08" href="smil/Page08.smil" media-type="application/smil+xml"/>
+    <item id="moPage10" href="smil/Page10.smil" media-type="application/smil+xml"/>
+    <item id="moPage12" href="smil/Page12.smil" media-type="application/smil+xml"/>
+    <item id="moPage14" href="smil/Page14.smil" media-type="application/smil+xml"/>
+    <item id="moPage16" href="smil/Page16.smil" media-type="application/smil+xml"/>
+    <item id="moPage18" href="smil/Page18.smil" media-type="application/smil+xml"/>
+    <item id="moPage20" href="smil/Page20.smil" media-type="application/smil+xml"/>
+    <item id="moPage22" href="smil/Page22.smil" media-type="application/smil+xml"/>
+    <item id="moPage24" href="smil/Page24.smil" media-type="application/smil+xml"/>
+    <item id="vs_Cover" href="subtitles/Cover.vtt" media-type="text/vtt"/>
+    <item id="vs_P02" href="subtitles/P02.vtt" media-type="text/vtt"/>
+    <item id="vs_P03" href="subtitles/P03.vtt" media-type="text/vtt"/>
+    <item id="vs_P04_05" href="subtitles/P04-05.vtt" media-type="text/vtt"/>
+    <item id="vs_P06" href="subtitles/P06.vtt" media-type="text/vtt"/>
+    <item id="vs_P07" href="subtitles/P07.vtt" media-type="text/vtt"/>
+    <item id="vs_P08" href="subtitles/P08.vtt" media-type="text/vtt"/>
+    <item id="vs_P09" href="subtitles/P09.vtt" media-type="text/vtt"/>
+    <item id="vs_P10" href="subtitles/P10.vtt" media-type="text/vtt"/>
+    <item id="vs_P11" href="subtitles/P11.vtt" media-type="text/vtt"/>
+    <item id="vs_P12" href="subtitles/P12.vtt" media-type="text/vtt"/>
+    <item id="vs_P13" href="subtitles/P13.vtt" media-type="text/vtt"/>
+    <item id="vs_P14" href="subtitles/P14.vtt" media-type="text/vtt"/>
+    <item id="vs_P15" href="subtitles/P15.vtt" media-type="text/vtt"/>
+    <item id="vs_P16" href="subtitles/P16.vtt" media-type="text/vtt"/>
+    <item id="vs_P17" href="subtitles/P17.vtt" media-type="text/vtt"/>
+    <item id="vs_P18" href="subtitles/P18.vtt" media-type="text/vtt"/>
+    <item id="vs_P19" href="subtitles/P19.vtt" media-type="text/vtt"/>
+    <item id="vs_P20_21" href="subtitles/P20-21.vtt" media-type="text/vtt"/>
+    <item id="vs_P22" href="subtitles/P22.vtt" media-type="text/vtt"/>
+    <item id="vs_P23" href="subtitles/P23.vtt" media-type="text/vtt"/>
+    <item id="vs_P24" href="subtitles/P24.vtt" media-type="text/vtt"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover"/>
+    <itemref idref="page002"/>
+    <itemref idref="page004"/>
+    <itemref idref="page006"/>
+    <itemref idref="page008"/>
+    <itemref idref="page010"/>
+    <itemref idref="page012"/>
+    <itemref idref="page014"/>
+    <itemref idref="page016"/>
+    <itemref idref="page018"/>
+    <itemref idref="page020"/>
+    <itemref idref="page022"/>
+    <itemref idref="page024"/>
+    <itemref idref="page025"/>
+    <itemref idref="page026"/>
+    <itemref idref="page027"/>
+    <itemref idref="page028"/>
+    <itemref idref="page029"/>
+    <itemref idref="page030"/>
+    <itemref idref="back"/>
+  </spine>
+</package>
