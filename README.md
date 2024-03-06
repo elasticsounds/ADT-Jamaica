@@ -6,19 +6,58 @@ This is the repository for the ADT (accessible digital textbooks) project in Jam
 
 ## Getting Started
 
-To play the ePubs in Book Fusion's reader. follow the instructions below.
+To play the ePubs in Book Fusion's reader, follow the instructions below.
 
-To play the ePubs offline on desktop, follw the instructions below.
+To play the ePubs offline on desktop with Thorium, follw the instructions below.
 
-To download and edit the ePubs, follow the instructions below.
+To download and edit the ePubs in Calibre, follow the instructions below.
+
+## Play ePubs in Book Fusion
 
 ### Prerequisites
 
-- Ensure you have [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine.
-- A Windows environment is necessary to run the Windows executable.
-- [Git](https://git-scm.com/downloads) for cloning the repository.
+You need a desktop computer, tablet or mobile device with a web browser like google chrome. It is recommneded to use a desktop or tablet as the experience fills the screen.
 
-### Installation
+### Steps
+
+1. Navigate to https://www.bookfusion.com/libraries/MOEYI
+2. Choose a book to play. The ADTs have a green label that says 'interactive'.
+   - For "Harriet Hen and the Hawk" go to https://www.bookfusion.com/books/2592584-harriet-hen-and-the-hawk-unicef
+   - For "My Brain is my Boss" go to https://www.bookfusion.com/books/2592566-my-brain-is-my-boss-unicef
+
+![A screenshot of the Bookfusion reader](https://i.imgur.com/0GZcC6Q.png)
+
+You may also use the iOS app to view the book. The iOS app offers offline functionality.
+https://apps.apple.com/us/app/bookfusion/id1141834096 
+
+1. Download the app.
+2. Create an account.
+3. Navigate to the "Ministry of Education and Youth" page.
+
+## Play ePubs offline on desktop with Thorium
+
+You can run ePubs offline on your desktop computer by downloading them and playing them in a compatible reader. For this example, we recommend using Thorium Reader from EDR Lab.
+
+### Prerequisites
+
+You will need a desktop computer, either Windows, Mac or Linux. You will need Thorium installed. You can [Download Thorium](https://www.edrlab.org/software/thorium-reader/) from the EDRlab website.
+
+### Steps
+
+1. Download the ePubs from the repository.
+4. Open Thorium and press the plus in the top right of the screen.
+5. Choose the ePub you downloaded.
+6. Play!
+
+![A screenshot of the Thorium reader](https://i.imgur.com/j2DlNsK.png)
+
+## Download and edit the ePubs in Calibre
+
+### Prerequisites
+
+You will need a desktop PC and an editing application. We recommend [Calibre](https://calibre-ebook.com/download).
+
+### Steps
 
 1. **Clone the repository:**
    ```
@@ -26,42 +65,10 @@ To download and edit the ePubs, follow the instructions below.
    cd [repository name]
    ```
 
-2. **Check for any Flutter setup issues:**
-   ```
-   flutter doctor
-   ```
-   Run `flutter doctor` to ensure Flutter is correctly installed and no issues are present.
+2. Import the ePub folders into Calibre.
+3. Edit your project
+4. Preview the results in Calibre's inbuilt reader.
 
-3. **Get Flutter dependencies:**
-   ```
-   flutter pub get
-   ```
-
-4. **Run the application:**
-   For development purposes, you can run the application using:
-   ```
-   flutter run -d windows
-   ```
-   To build and run the executable:
-   ```
-   flutter build windows
-   ```
-   This will generate an executable in the `build\windows\runner\Release` directory.
-
-### Running the Executable
-
-- Navigate to the `build\windows\runner\Release` directory.
-- Run the `.exe` file to start the application.
-
-## Known Issues and Troubleshooting
-
-- If you encounter any DLL-related issues, ensure that all necessary DLL files are present in the executable directory.
-- For any issues related to Flutter dependencies, run `flutter pub get` to fetch the latest versions of the dependencies.
-
-## Contributing
-
-You may branch and develop your own version, or create additional ADTs in the form of JSONs with referenced assets that are compatible with the app shell (bookhshelf).
-This repository is currently maintained by UNICEF Nicaragua, Fundación Zamora Terán and WERN.
 
 ## License
 
