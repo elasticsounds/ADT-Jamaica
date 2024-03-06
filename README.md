@@ -61,8 +61,7 @@ You will need a desktop PC and an editing application. We recommend [Calibre](ht
 
 1. **Clone the repository:**
    ```
-   git clone [URL of your Git repository]
-   cd [repository name]
+   git clone https://github.com/elasticsounds/ADT-Jamaica.git
    ```
 
 2. Import the ePub folders into Calibre.
