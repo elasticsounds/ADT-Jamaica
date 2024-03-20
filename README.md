@@ -59,14 +59,25 @@ You will need a desktop PC and an editing application. We recommend [Calibre](ht
 
 ### Steps
 
-1. **Clone the repository:**
+1. Clone the repository:
    ```
    git clone https://github.com/elasticsounds/ADT-Jamaica.git
    ```
 
 2. Import the ePub folders into Calibre.
-3. Edit your project
+3. Edit your project using Calibre's in-built ePub editor. If you are new to editing ePubs with Calibre, you can review the [Calibre manual](https://manual.calibre-ebook.com/edit.html).
 4. Preview the results in Calibre's inbuilt reader.
+5. Export to ePub file and load in Thorium to test.
+
+### Replacing existing content with custom assets
+
+To replace existing content with your own assets, you must be aware of the ePub file structure and have experience editing ePubs. 
+
+- The page content is found in the ```pageXXX.xhtml``` files in the ```OEBPS``` folder. Make sure you update the ```nav.xhtml``` and ```package.opf``` files with your revised structure.
+  
+- For sign language video files, replace those in the ```video``` folder and for read-aloud audio files, replace the ```.mp3s``` in the ```audio``` folder. Make sure to change the references to these files with the html content and manifest files.
+  
+- Smil files are used to synchronize the read-aloud audio to the text and have it highlight. These are contained in the ```smil``` folder. To generate additional [smil](https://www.albertopettarin.it/blog/2014/08/02/how-to-create-epub-3-read-aloud-ebooks.html) files, you can edit these manually or use [pubcoder](https://pubcoder.com/)'s built in smil generator. You can watch this [video](https://www.youtube.com/watch?v=lD61p9nOEpo) how to generate smil files using pubcoder.
 
 
 ## License
